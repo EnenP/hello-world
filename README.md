@@ -1,2 +1,3 @@
 # hello-world
-Starter repository
+
+This is how it begins...
